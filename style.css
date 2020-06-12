@@ -8,6 +8,7 @@ h1, nav, figure {
   text-align: center
   }
 
-a { 
-  padding: 10px; 
-  ?
+nav > a {
+  padding: 10px;
+}
+
