@@ -4,4 +4,10 @@ body {
   margin: 0;
 }
 
-h1, nav, figure { text-align: center }
+h1, nav, figure { 
+  text-align: center
+  }
+
+a { 
+  padding: 10px; 
+  ?
